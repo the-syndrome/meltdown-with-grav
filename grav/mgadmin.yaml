@@ -1,0 +1,11 @@
+state: enabled
+email: UxjdFDAm@rTH1qrcH.com
+fullname: djAXaMcPLBBQzzhv
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+password: "1EKHzGgSCpMwGmYB"

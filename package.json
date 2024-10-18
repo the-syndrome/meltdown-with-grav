@@ -1,0 +1,15 @@
+{
+  "name": "meltdown-with-grav",
+  "description": "meltdown-with-grav",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "async": "^3.2.6",
+    "fast-glob": "^3.3.2",
+    "imba": "^2.0.0-alpha.237",
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "copy-pages": "imba tools/copy-pages.imba"
+  }
+}
